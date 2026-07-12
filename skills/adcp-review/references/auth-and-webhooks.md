@@ -3,7 +3,7 @@
 Apply these when the diff touches auth, request/webhook signing or verification,
 outbound fetches of counterparty-supplied URLs, or account scoping.
 
-> Curated AdCP 3.x snapshot — when you have web access, fetch the live sources and let
+> Curated AdCP 3.x snapshot (last curated: 2026-07-12) — when you have web access, fetch the live sources and let
 > them win on any conflict:
 > https://docs.adcontextprotocol.org/docs/building/by-layer/L1/security.md and
 > https://docs.adcontextprotocol.org/docs/building/by-layer/L3/webhooks.md

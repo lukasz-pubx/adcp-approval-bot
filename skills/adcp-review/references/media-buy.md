@@ -3,7 +3,7 @@
 Apply these when the diff maps internal campaign/inventory concepts onto AdCP tasks or
 reports delivery data.
 
-> Curated AdCP 3.x snapshot — when you have web access, fetch the live sources and let
+> Curated AdCP 3.x snapshot (last curated: 2026-07-12) — when you have web access, fetch the live sources and let
 > them win on any conflict:
 > https://docs.adcontextprotocol.org/docs/media-buy/task-reference/index.md
 

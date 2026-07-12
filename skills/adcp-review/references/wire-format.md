@@ -2,7 +2,7 @@
 
 Apply these when the diff constructs, parses, or validates AdCP task messages.
 
-> Curated AdCP 3.x snapshot — when you have web access, fetch the live sources and let
+> Curated AdCP 3.x snapshot (last curated: 2026-07-12) — when you have web access, fetch the live sources and let
 > them win on any conflict:
 > https://docs.adcontextprotocol.org/docs/protocol/calling-an-agent.md and
 > https://docs.adcontextprotocol.org/docs/building/by-layer/L3/task-lifecycle.md
